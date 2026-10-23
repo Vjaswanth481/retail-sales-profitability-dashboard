@@ -28,5 +28,3 @@ Add the tools you actually used to create this dashboard, such as Microsoft Exce
 - Present business insights through data visualization
 
 
-## Author
-Aspiring Data Analyst | Interested in Data Analytics and Business Intelligence
